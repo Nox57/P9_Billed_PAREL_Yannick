@@ -1,3 +1,2 @@
 database_test.sqlite
-node_modules/
-coverage/
+node_modules
